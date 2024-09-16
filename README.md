@@ -2,7 +2,7 @@ Octanet Python Internship🔖
 
 🖇️Receipt Calculator Project
 
-🖇️OvervieW:
+🖇️Overview:
 
 The Receipt Calculator Project is a Python application that automates the calculation and management of receipts. It accepts item inputs, calculates totals, applies taxes and discounts, and generates a receipt. Users can also export receipts as text files or PDFs for documentation purposes.
 
